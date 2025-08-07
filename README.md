@@ -11,7 +11,7 @@ Each module includes:
 - Simulation-ready Testbench
 - Clear file/folder structure
 
-#🧠 Author
+# 🧠 Author
 
 Your Name – @Shakthivel-26  
 B.E. EEE | RTL & Digital Logic Enthusiast
