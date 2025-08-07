@@ -13,5 +13,5 @@ Each module includes:
 
 #🧠 Author
 
-Your Name – @Shakthivel-26
+Your Name – @Shakthivel-26  
 B.E. EEE | RTL & Digital Logic Enthusiast
